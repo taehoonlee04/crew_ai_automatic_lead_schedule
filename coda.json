@@ -1,0 +1,14 @@
+{
+  "downtown_office": {
+    "price": "$2500/month",
+    "size": "1200 sqft",
+    "availability": "Immediate",
+    "amenities": ["Parking", "Conference Room", "24/7 Access"]
+  },
+  "main_street_office": {
+    "price": "$3200/month",
+    "size": "1500 sqft",
+    "availability": "Next Month",
+    "amenities": ["Rooftop Access", "Fiber Internet", "Reception Desk"]
+  }
+}
